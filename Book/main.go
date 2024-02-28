@@ -4,7 +4,6 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	
 )
 
 // GetBooks responds with the list of all books as JSON.
